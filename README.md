@@ -1,11 +1,15 @@
-###### The _smallest_ *story*
+## The _smallest_ story
+------
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 ```
-**This** 
-~~is~~ 
-- [x] my first :+1: try to :shipit: Markdown
+<dl>
+<dt>`This` is my first try to Markdown</dt>
 
-***In*** 
-\*the words\* of Abraham Lincoln:
+<dd>In the words of Abraham Lincoln:</dd>
 
-> Pardon my French
+<dt>> Pardon my French</dt>
+</dl>
 ```
