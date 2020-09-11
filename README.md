@@ -11,5 +11,6 @@
 <dd>In the words of Abraham Lincoln:</dd>
 
 <dt>> Pardon my French</dt>
+<dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 ```
